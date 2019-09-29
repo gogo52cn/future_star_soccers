@@ -1,10 +1,10 @@
 ---
 title: 关于
-subtitle: 关于未来之星足球俱乐部.
-description: A stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/site/header.jpeg
+subtitle: 关于我们
+description: 关于我们.
+featured_image: /images/site/special.jpeg
 ---
 
-![](/images/site/header.jpeg)
+![](/images/site/special.jpeg)
 
-## 暂无内容，正陆续更新完善  
+暂无内容，正陆续更新完善
