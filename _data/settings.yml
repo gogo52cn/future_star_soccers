@@ -13,7 +13,7 @@ menu_settings:
     - title: '最新'
       url: '/'
     - title: '俱乐部资料'
-      url: '/club'
+      url: '/projects'
     - title: '关于'
       url: '/about'
     - title: '联系方式'
