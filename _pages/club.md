@@ -5,6 +5,6 @@ description: 关于本俱乐部的各方面资料.
 featured_image: /images/2019-09-28/preview.jpeg
 ---
 
-![](/images/2019-09-28/1.jpeg)
+![](/images/2019-09-28/preview.jpeg)
 
 暂无内容，正陆续更新完善
