@@ -13,9 +13,9 @@ menu_settings:
     - title: '最新'
       url: '/'
     - title: '俱乐部资料'
-      url: '/projects/'
+      url: '/project'
     - title: '关于'
-      url: '/about'
+      url: '/about_us'
     - title: '联系方式'
       url: '/contact'
 
