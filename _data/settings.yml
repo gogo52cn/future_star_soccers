@@ -13,11 +13,11 @@ menu_settings:
     - title: '最新'
       url: '/'
     - title: '俱乐部资料'
-      url: '/club.html'
+      url: '/club'
     - title: '关于'
-      url: '/about.html'
+      url: '/about'
     - title: '联系方式'
-      url: '/contact.html'
+      url: '/contact'
 
 grid_settings:
   grid_spacing: 10
